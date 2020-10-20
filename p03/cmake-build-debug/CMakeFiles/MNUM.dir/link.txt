@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MNUM.dir/main.cpp.o  -o MNUM 

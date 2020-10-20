@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bdmendes/Documents/Faculdade/2 ano/MNUM/main.cpp
+iostream
+-
+cmath
+-
+functional
+-
+utility
+-
+
