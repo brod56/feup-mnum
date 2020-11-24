@@ -3,7 +3,7 @@ import math
 #####################################################
 #SISTEMAS LINEARES
 
-def khalestky(A,b):
+ def khalestky(A,b):
     # TO BE CONTINUED
     
     # U diagonal principal 1
